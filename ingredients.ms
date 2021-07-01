@@ -1,1 +1,1 @@
-first, we need Egg, Milk, Butter, Flour, Buttermilk and Bakingpowder
+first, we need Eggs, Milk, Butter, Flour, Buttermilk, Bakingpowder, Vanilla and Vegetable Oil
